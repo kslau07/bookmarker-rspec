@@ -1,0 +1,7 @@
+# spec_helper is for rspec config 
+--require spec_helper
+--color
+--format documentation
+# warnings
+# backtrace
+
