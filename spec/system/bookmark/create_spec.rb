@@ -3,7 +3,6 @@
 require 'rails_helper'
 
 RSpec.describe 'create bookmark', type: :system do
-
   # sad path (blank)
   scenario 'empty title and url' do
     visit new_bookmark_path
